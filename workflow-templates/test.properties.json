@@ -1,0 +1,11 @@
+{
+    "name": "HostLink Workflow",
+    "description": "HostLink starter workflow.",
+    "categories": [
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
