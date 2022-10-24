@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://www.hostlink.com.hk" target="_blank">
-    <img src="https://raw.githubusercontent.com/HostLink/.github/main/logo.webp" />
+    <img src="https://raw.githubusercontent.com/HostLink/.github/master/profile/logo.webp" />
   </a>
 </p>
 
